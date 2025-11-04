@@ -1,0 +1,10 @@
+# 确保你的 .venv 已经激活
+# 确保你的 .env 文件已经配置好
+cd SearchEngine
+# 确保你的 .venv 已激活
+python -m src.agent.intent_parser
+
+
+sk-GGu4SA1QuBLJiWwBx0L9cDA10GJ0gO6I3NN95rwTVc8ExdOh
+new:
+sk-Qgvc6nBCKz5PIqjcycCdtxEfQiGOvvI4umoyYNBSkhEZUFos
